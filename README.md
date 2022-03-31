@@ -4,5 +4,5 @@ This porject was created to have a framework based on spring Boot technology. In
 GET STARTED
 Clone main branch and install all the maven dependencies.
 
-        
+Take a look at the Notes file to know about useful tips to use the framework.        
 
